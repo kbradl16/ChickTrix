@@ -37,6 +37,7 @@
     <background>background\SS_Silhouette</background>
     <background>background\SS_EndSilhouette</background>
     <background>background\Map</background>
+    <background>background\background4</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
