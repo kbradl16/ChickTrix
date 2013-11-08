@@ -86,8 +86,17 @@
   </options>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
-  <backgrounds name="background"/>
+  <sprites name="sprites">
+    <sprite>sprites\Numbers</sprite>
+  </sprites>
+  <backgrounds name="background">
+    <background>background\Bedroom</background>
+    <background>background\Coffee</background>
+    <background>background\Park</background>
+    <background>background\Map</background>
+    <background>background\Start_Menu</background>
+    <background>background\End_Menu</background>
+  </backgrounds>
   <paths name="paths"/>
   <help>
     <mimic>-1</mimic>
